@@ -36,6 +36,10 @@ class Producto {
       }
     }
   }
+//HOLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  function sumar(){
+    console.log("Hola Mundo");
+  }
   
   // Ejemplo de uso:
   const carrito = new Carrito();
